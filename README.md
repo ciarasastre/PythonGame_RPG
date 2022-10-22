@@ -1,2 +1,2 @@
-# PythonGame_RPG
-Creating a Zelda style game in Python with Clear Code Youtube Guide
+# TesterGames
+A Repo to save games created as samples for unity/python etc projects.
